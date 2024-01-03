@@ -1,0 +1,16 @@
+{
+    "name": "Say Hello",
+    "short_name": "Hello",
+    "icons": [{
+      "src": "/assets/fotosaya1.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose" : "any maskable"
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+    
+  }
